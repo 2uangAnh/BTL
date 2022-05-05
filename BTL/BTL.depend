@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1651095423 source:d:\btl\main.cpp
+	<bits/stdc++.h>
+	"sdlsetting.h"
+
+1651094654 d:\btl\sdlsetting.h
+	<bits/stdc++.h>
+	<SDL.h>
+	<windows.h>
+	<SDL_image.h>
+	<SDL_events.h>
+
+1651094885 source:d:\btl\sdlsetting.cpp
+	"sdlsetting.h"
+
+1649262393 source:d:\btl\game.cpp
+	"game.h"
+
+1649346103 d:\btl\game.h
+
